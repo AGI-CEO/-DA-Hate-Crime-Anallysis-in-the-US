@@ -1,3 +1,13 @@
+# Scenario
+
+You are a team of data analysts working for a social policy research institute. The institute is focused on understanding the socio-economic factors influencing hate crimes across the United States. With a recent surge in hate crimes, there is a pressing need to understand the underlying causes and correlations to better inform policy decisions and awareness campaigns.
+
+# Business Problem
+
+Your task is to analyze the dataset, which contains data on hate crimes and various socio-economic indicators across different states. The goal is to identify patterns, correlations, and insights that can help in understanding the factors influencing hate crime rates. This analysis will contribute to a comprehensive report that aims to inform policymakers, social workers, and the public about the dynamics of hate crimes in the U.S.
+
+# My Report
+
 # Executive Summary
 
 This report presents a comprehensive analysis of hate crime rates across U.S. states, focusing on their relationship with various socio-economic indicators. The analysis is based on a dataset that includes variables such as median household income, unemployment rate, racial composition, political leanings, urbanization, education level, poverty rates, and non-citizen population share. The key findings suggest that hate crime rates are influenced by a complex interplay of socio-economic, cultural, and political factors. The strongest correlation was found with political preferences, while urbanization and non-citizen population share also showed significant associations. The report concludes with recommendations for further research and policy implications.
