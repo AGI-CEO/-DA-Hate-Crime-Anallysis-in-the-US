@@ -50,9 +50,9 @@ States with a higher non-citizen population (>10%) were found to have more than 
 
 # Visualizations
 
-![Gini Index vs Hate Crims per 100k (FBI Data)](Gini_Index_vs_Hate_Crims_per_100k_FBI_Data.png)
+![Gini Index vs Hate Crims per 100k (FBI Data)](viz/Gini_Index_vs_Hate_Crims_per_100k_FBI_Data.png)
 
-![High School Education Level vs Hate Crims per 100k (FBI Data)](High_School_Education_Level_vs_Hate_Crims_per_100k_FBI_Data.png)
+![High School Education Level vs Hate Crims per 100k (FBI Data)](viz/High_School_Education_Level_vs_Hate_Crims_per_100k_FBI_Data.png)
 
 # Conclusions
 
